@@ -2,9 +2,9 @@
 Materials for my Python presentation at ASIC North
 
 ## dependencies:
- * tesseract
- * python 3.7
- * pip or some package manager for python
+ * [tesseract](https://github.com/tesseract-ocr/tesseract)
+ * [python 3.7](https://www.python.org/downloads/)
+ * with pip or some package manager for python install:
    * jupyter
    * jupyterlab
    * numpy
